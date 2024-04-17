@@ -10,4 +10,5 @@ CRUD Operations: Users can perform CRUD (Create, Read, Update, Delete) operation
 Authorization: Only authenticated users have access to the to-do list functionality. Unauthorized users are redirected to the login/signup pages, ensuring that only registered users can manage their tasks.
 
 Clean and Responsive Design: The web app features a clean and intuitive user interface design that is responsive across different devices and screen sizes. This ensures a seamless user experience whether accessing the app from a desktop
+
 Deployment : http://localhost:3000
