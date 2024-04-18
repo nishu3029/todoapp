@@ -11,4 +11,4 @@ Authorization: Only authenticated users have access to the to-do list functional
 
 Clean and Responsive Design: The web app features a clean and intuitive user interface design that is responsive across different devices and screen sizes. This ensures a seamless user experience whether accessing the app from a desktop
 
-Deployment : http://localhost:3000
+
